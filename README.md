@@ -18,4 +18,11 @@ You can benefit from these resources too :<br>
 * [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 
+## Git and Github for Beginners 
+* [An Intro to Git and GitHub for Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+* [Git and GitHub learning](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
+* [Git and GitHub Tutorial – Version Control for Beginners](https://www.freecodecamp.org/news/git-and-github-for-beginners/)
+* [Git Tutorial For Beginners 2022](https://www.youtube.com/watch?v=eeuNAIZoWRU)
+* [Git and GitHub Tutorial For Beginners](https://www.youtube.com/watch?v=3fUbBnN_H2c)
+
 
