@@ -2,7 +2,7 @@
 
 
 # Hello , my name is Felix👋
-<img src="images/Typing.gif" alt="An image of a hand typing-Animated" align="left" width="150px" height="150px">
+<img src="images/IMG_4263.jpg" alt="An image of a hand typing-Animated" align="left" width="200px" height="150px">
  I am a Student of Kwame Nkrumah University of Science and Technology(Undergraduate) ,<br> Studying Bsc. Meteorology and Climate Science ,I code and have knowledge in Python and FORTRAN 90.
 <br>
 
