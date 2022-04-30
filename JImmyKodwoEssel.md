@@ -1,3 +1,5 @@
+![IMG_20220423_235246_662](https://user-images.githubusercontent.com/88323900/166121950-7513b16e-4bc6-4a15-96a6-1deb9d7a9d2d.jpg)
+
 <h1 align="center">Hi 👋, I'm Jimmy Kodwo Essel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
