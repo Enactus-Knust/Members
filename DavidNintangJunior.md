@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm David Junior Nintang</h1>
+<div><h1 align="center">Hi 👋, I'm David Junior Nintang</h1>
+<img align='right' src="https://avatars.githubusercontent.com/u/36107616?s=400&u=a22bc03df861b8f7e2f852c7b0bd386dfb694390&v=4g" alt="profile picture" height="300" width="300" />
+  </div>
 <h3 align="center">I am a technophile based in Kumasi, Ghana.</h3>
 
 - 🔭 I’m currently working on **Ishara (a React Native App)**
