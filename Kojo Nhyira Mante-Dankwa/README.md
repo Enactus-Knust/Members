@@ -1,7 +1,7 @@
-<meta charset=“UTF-8”>
 
 
-                               ## 👋HI THERE!!!!
+
+                               ## HI THERE!!!!👋
                                           
  <img src="images/kojo.jpeg" alt="A picture of myself" align="left" width="170px" height="170px"> 
  <p>⚡My name is Kojo Nhyira Mante-Dankwa,a student studying Bsc. Computer Engineering in <a href="www.knust.edu.gh">KNUST</a></p>
