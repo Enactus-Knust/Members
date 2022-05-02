@@ -2,7 +2,7 @@
 <h1 align="center">Hi🙂, I'm Jeffery Appiah Kofi</h1>
 <h3 align="center">A BSc Petrochemical Engineering student in the Kwame Nkrumah University of Science and Technology with a commitment to becoming a dedicated frontend developer</h3>
 
-<img src="C:\JEFF\Desktop\readme\images\jefferywhite.jpg " alt="Jeffery Appiah's image" align="left" width="250px" height="300px">
+<img src="C:\Users\JEFF\Desktop\readme\jefferywhite.jpg" alt="Jeffery Appiah's image" align="left" width="250px" height="300px">
 
 - 🤓 I’m at the moment working on **Enactus Knust website**
 - 🌱 Currently, I’m learning **Unity, Python and React**
