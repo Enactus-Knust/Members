@@ -7,7 +7,7 @@
 - 🤓 I’m at the moment working on **Enactus Knust website**
 - 🌱 Currently, I’m learning **Unity, Python and React**
 - 💬 My area of expertise is in **HTML, CSS and JS**
-- 📱 How to reach me **ajeffery670@gmail.com**
+- 📱 Reach me on **ajeffery670@gmail.com**
 - ⚡ Fun fact **I love to eat noodles**
 
 <h3 align="left">Connect with me:</h3>
