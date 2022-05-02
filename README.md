@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Owusu Samuel</h1>
 
-<p><img align="left" src="samzygit.jpg" alt="a picture of myself" width="180px" height="190px"></p>
+<p><img align="left" src="iamge/samzygit.jpg" alt="a picture of myself" width="180px" height="190px"></p>
 
 <p align="center">A Telecommunication Engineering Student at Kwame Nkrumah University Of Science And Technology. I do Frontend Deveopment</p>
 
