@@ -1,28 +1,24 @@
-# Members :busts_in_silhouette: 
-This Repository contains information about each member of the Organization.
+<h1 align="center">Hi 👋, I'm Owusu Samuel</h1>
+
+<p><img align="left" src="samzygit.jpg" alt="a picture of myself" width="180px" height="190px"></p>
+
+<p align="center">A Telecommunication Engineering Student at Kwame Nkrumah University Of Science And Technology. I do Frontend Deveopment</p>
+
+<p> -🌱 I’m currently learning JavaScript</p>
+
+<p>- 💬 Ask me about Frontend Development</p>
+
+<p> -📫 How to reach me samzy847@gmail.com</p>
+
+<p> -⚡ Fun fact I love to play keyboard(piano)</p>
+
+<a href="https://chatwith.io/s/sa-3" align="left"> Click to connect me on WhatsApp
+</a>
 
 
-These blogs can help you out with all the steps in creating a perfect "About Profile" 
 
-You choose from  any of them
-* [Build a Stunning README For Your GitHub Profile](https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7)
-* [How to make a stunning README for your Github profile ](https://dev.to/favor/how-to-make-a-stunning-readme-for-your-github-profile-5e8g)
-* [A beginner’s guide to writing a stunning GitHub profile readme ](https://medium.com/theleanprogrammer/a-beginner-guide-to-writing-a-stunning-github-profile-readme-6ee0e211f5a8)
-* [How To Create An Awesome Github Profile README ](https://javascript.plainenglish.io/how-to-create-an-awesome-github-profile-readme-a474d5b45645)
-<br>
-You can benefit from these resources too :<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
-* [Personalizing your profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#adding-a-bio-to-your-profile)
-* [Create your about Profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/about-your-profile)
-* [Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
-* [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
-
-
-## Git and Github for Beginners 
-* [An Intro to Git and GitHub for Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
-* [Git and GitHub learning](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
-* [Git and GitHub Tutorial – Version Control for Beginners](https://www.freecodecamp.org/news/git-and-github-for-beginners/)
-* [Git Tutorial For Beginners 2022](https://www.youtube.com/watch?v=eeuNAIZoWRU)
-* [Git and GitHub Tutorial For Beginners](https://www.youtube.com/watch?v=3fUbBnN_H2c)
 
 
