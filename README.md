@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Owusu Samuel</h1>
 
-<p><img align="left" src="iamge/samzygit.jpg" alt="a picture of myself" width="180px" height="190px"></p>
+<p><img align="left" src="https://avatars.githubusercontent.com/u/104016099?s=400&u=ddc93454279af46cf550ca3103f216b6ecd1c91c&v=4" alt="a picture of myself" width="270px" height="300px"></p>
 
 <p align="center">A Telecommunication Engineering Student at Kwame Nkrumah University Of Science And Technology. I do Frontend Deveopment</p>
 
@@ -12,7 +12,7 @@
 
 <p> -⚡ Fun fact I love to play keyboard(piano)</p>
 
-<a href="https://chatwith.io/s/sa-3" align="left"> Click to connect me on WhatsApp
+<a href="https://chatwith.io/s/sa-3" align="left"> <img src="https://github.com/felaris/felaris/blob/master/whatsapp.gif?raw=true" alt="whatsapp icon" width="70px" height="70px">
 </a>
 
 
