@@ -3,7 +3,7 @@
 <div><img src="https://avatars.githubusercontent.com/u/97197437?v=4" alt="My picture" align="left" width="350px" height="300px">
 <h3 align="center">A BSc Petrochemical Engineering student in the Kwame Nkrumah University of Science and Technology with a commitment to becoming a dedicated frontend developer</h3>
 
-<img src="images/97197437.jpg" alt="Jeffery Appiah's image" align="left" width="200px" height="200px">
+
 
 - 🤓 I’m at the moment working on **Enactus Knust website**
 - 🌱 Currently, I’m learning **Unity, Python and React**
