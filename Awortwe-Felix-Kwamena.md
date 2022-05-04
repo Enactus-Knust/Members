@@ -2,7 +2,7 @@
 <div>
 
 # Hello, Felix here :relaxed:
-<img src="https://awortwe.tech/assets/images/profile.jpg" alt="An image of a hand typing-Animated" align="left" width="250px" height="300px">
+<img src="https://awortwe.tech/assets/images/profile.jpg" alt="My picture" align="left" width="250px" height="300px">
  I am a Student of Kwame Nkrumah University of Science and Technology ( Undergraduate ) ,Studying Bsc. Meteorology and Climate Science. I write poems and like to read novels . Favourite Author - <b>Dan Brown</b>
 
 <br>Currently  Learning to cope with Earth right now 😁️.
