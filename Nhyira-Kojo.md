@@ -2,7 +2,7 @@
 
 # HI THERE!!!!👋
                                           
- <img src="https://github.com/Kojonhyiraa/Kojonhyira/blob/main/images/kojo.jpeg" alt="A picture of myself" align="left" width="170px" height="170px"> 
+ <img src="https://avatars.githubusercontent.com/u/97101203?v=4" alt="A picture of myself" align="left" width="170px" height="170px"> 
  <p>  My name is Kojo Nhyira Mante-Dankwa,a student studying Bsc. Computer Engineering in <a href="https://www.knust.edu.gh">KNUST</a></p>
  <p>  👀  I have knowledge in HTML5,CSS,Javascript,Ruby and C#</p>
  <p> ⚡I plan on being a full stack developer in the next few years</p>
