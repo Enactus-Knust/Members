@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeffery</h1>
+<br>
+<img src="https://avatars.githubusercontent.com/u/83247407?v=4" alt="My Picture" align="left" width="250px" height="300px">
 <h3 align="center">An aspiring full-stack developer from Ghana</h3>
 
 <p align="left"> <a href="https://twitter.com/ransfordgenesis" target="blank"><img src="https://img.shields.io/twitter/follow/ransfordgenesis?logo=twitter&style=for-the-badge" alt="ransfordgenesis" /></a> </p>
