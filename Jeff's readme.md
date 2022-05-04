@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi🙂, I'm Jeffery Appiah Kofi</h1>
+<div><img src="https://avatars.githubusercontent.com/u/97197437?v=4" alt="My picture" align="left" width="350px" height="300px">
 <h3 align="center">A BSc Petrochemical Engineering student in the Kwame Nkrumah University of Science and Technology with a commitment to becoming a dedicated frontend developer</h3>
 
 <img src="images/97197437.jpg" alt="Jeffery Appiah's image" align="left" width="200px" height="200px">
@@ -9,7 +10,7 @@
 - 💬 My area of expertise is in **HTML, CSS and JS**
 - 📱 Reach me on **ajeffery670@gmail.com**
 - ⚡ Fun fact **I love to eat noodles**
-
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jefferyk_appiah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jefferyk_appiah" height="30" width="40" /></a>
